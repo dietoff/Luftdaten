@@ -1,0 +1,10 @@
+.pop .leaflet-popup-content-wrapper {
+  background: #303030A0;
+  color:#fff;
+  }
+.pop .leaflet-popup-content-wrapper a {
+  color:#fff;
+  }
+.pop .leaflet-popup-tip-container {
+  opacity: 0;
+}
